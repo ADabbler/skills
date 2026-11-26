@@ -46,6 +46,8 @@ npx skills add ADabbler/skills --skill agent-notes
 
 笔记生命周期和写作规范参考了 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) 与 [write-notes-like-deepseek](https://github.com/czm15053/write-notes-like-deepseek)。具体取舍见[设计笔记](notes/implemented/2026-10-02-agent-notes-architecture.md#上游依据与取舍)。
 
+感谢 [LINUX DO](https://linux.do/) 社区。
+
 ## 许可证
 
 本仓库采用 [MIT 许可证](LICENSE)。

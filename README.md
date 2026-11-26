@@ -46,6 +46,8 @@ Share feedback or report a problem in [GitHub Issues](https://github.com/ADabble
 
 The note lifecycle and writing guidance draw on [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) and [write-notes-like-deepseek](https://github.com/czm15053/write-notes-like-deepseek). See which practices the skills adopt in the [design notes (Chinese)](notes/implemented/2026-10-02-agent-notes-architecture.md#上游依据与取舍).
 
+Thanks to the [LINUX DO](https://linux.do/) community.
+
 ## License
 
 This repository is licensed under the [MIT License](LICENSE).
